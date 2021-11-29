@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e12aca6a342140f4bab8490c61062d57
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Papercutz
+  fontNames:
+  - Papercutz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8d51cfb20c0d7fa46b80905dc4944197, type: 3}
+  - {fileID: 12800000, guid: 7a7239455f1ec4c43980ca55a991376c, type: 3}
+  - {fileID: 12800000, guid: 5fea47992eb97844d9178e84f155a1e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

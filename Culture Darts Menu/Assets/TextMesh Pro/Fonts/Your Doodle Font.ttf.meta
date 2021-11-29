@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7a6dd85f64bd9ea47ac93b476acc4047
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Your Doodle Font
+  fontNames:
+  - Your Doodle Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ed3202331371aa4aa6373a08d101143, type: 3}
+  - {fileID: 12800000, guid: 4a63286805529f94caac6fddf168ba7c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

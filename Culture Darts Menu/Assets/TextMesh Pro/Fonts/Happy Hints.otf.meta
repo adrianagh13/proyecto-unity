@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a812f1febe891024d8906e09aa05b544
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Happy Hints
+  fontNames:
+  - Happy Hints
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 523d40c1916c1f046a45e67487739df3, type: 3}
+  - {fileID: 12800000, guid: e0b06612cf591c14797c3bf3d86d3726, type: 3}
+  - {fileID: 12800000, guid: 123be4547cf8c324baf224db0e70c68d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

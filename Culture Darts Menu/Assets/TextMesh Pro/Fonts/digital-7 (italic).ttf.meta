@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 87feb2c71066c494b8b111777e0976f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital-7 Italic
+  fontNames:
+  - Digital-7 Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e123b53c4d6d4746b4ca478a845292e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
